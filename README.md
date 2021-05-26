@@ -6,3 +6,5 @@ le muestra unas recomendaciones ya sea para mantener o mejorar su indice de masa
 
 Tambien cuentacon una opción (Info) la cual consiste en que el usuario puede saber información importante sobre la creación del programa, como por ejemplo las fuentes de información para recolectar los datos
 colocados en el programa y también aparece el nombre de su creadora.
+
+Link : https://github.com/Ksvaldes/ProgramaSolo
